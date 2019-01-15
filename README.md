@@ -1,7 +1,7 @@
 # php-standards
-Extensive research on PHP standards across different ways and platforms.
+Coding standards and guide for developing apps using PHP
 
-Can be used as coding guide for PHP 5.3 and up
+Can be used for PHP 5.3 and up
 
 
 # PSR Standards

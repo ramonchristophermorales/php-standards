@@ -1,7 +1,7 @@
 # php-standards
 Extensive research on PHP standards across different ways and platforms.
 
-For legacy application that runs on PHP 5.3 and below, maybe applicable to PHP 5.4.
+Can be used as coding guide for PHP 5.3 and up
 
 
 # PSR Standards
